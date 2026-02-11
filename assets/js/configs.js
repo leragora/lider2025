@@ -56,6 +56,10 @@ export const msoConfigs = {
     'alimentos': {
       containerId: 'item80746',
       path: './assets/json/alimentos-bebidas.json'
+    },
+    'feminina': {
+      containerId: 'item92131',
+      path: './assets/json/feminina.json'
     }
   },
 
